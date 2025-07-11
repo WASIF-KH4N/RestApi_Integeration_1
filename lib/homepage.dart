@@ -142,7 +142,7 @@ class _HomepageState extends State<Homepage> {
         ),
         centerTitle: true,
         backgroundColor: Colors.teal,
-        elevation: 4,
+        elevation: 3,
         actions: [
           IconButton(
             icon: const Icon(Icons.refresh),
